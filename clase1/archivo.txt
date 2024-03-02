@@ -1,0 +1,8 @@
+Hola Mundo
+// x.y.z -> Semantic versioning
+
+// x la major y es cuando se rompe la compatibilidad hacia atras
+// y la minor y es cuando se añaden nuevas funcionalidades
+// z la patch y es cuando se arreglan bugs
+
+// Este simbolo ^ en las versiones significan que se actualizaran automaticamente en nuestros proyectos.

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  },
+  "name": "curso-node",
+  "description": "Un repositorio destinado a albergar el codigo del curso de nodejs por midudev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davm07/curso-nodejs.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "aprendizaje"
+  ],
+  "author": "davm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davm07/curso-nodejs/issues"
+  },
+  "homepage": "https://github.com/davm07/curso-nodejs#readme"
+}
