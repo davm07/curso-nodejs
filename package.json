@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "dotenv": "16.4.5",
     "picocolors": "^1.0.0"
   },
   "name": "curso-node",
